@@ -1,7 +1,5 @@
 # React To-Do List Website
 
-![Project Screenshot](screenshot.png)
-
 A simple To-Do List web application built using React. Keep track of your tasks, mark them as complete, and manage your daily activities efficiently.
 
 ## Table of Contents
@@ -31,25 +29,13 @@ The React To-Do List website is a user-friendly application that allows you to c
 
 Follow these steps to run the React To-Do List website locally:
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-todo-list.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd react-todo-list
-   ```
-
-3. Install dependencies:
+ Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+Start the development server:
 
    ```bash
    npm start
