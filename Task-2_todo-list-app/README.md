@@ -1,37 +1,83 @@
-# To Do List App ReactJS V2
+# React To-Do List Website
 
-To Do List App in ReactJS by WebStylePress. V2 refactored and improved. Functions for adding, editing, toggling and deleting were improved.
+![Project Screenshot](screenshot.png)
 
-## How to Use
+A simple To-Do List web application built using React. Keep track of your tasks, mark them as complete, and manage your daily activities efficiently.
 
-Clone or download repo
-NodeJS / NPM / Yarn should be installed in your PC
+## Table of Contents
 
-Open terminal or Git for Windows (Git Bash)
-Run these commands:
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Install Dependencies
+## Introduction
 
-yarn install
+The React To-Do List website is a user-friendly application that allows you to create, manage, and organize your tasks in a straightforward and visually appealing way. With an intuitive user interface and seamless interactions, you can focus on getting things done.
 
-OR
+## Features
 
-npm install
+- Add tasks with a title and optional description.
+- Mark tasks as complete to keep track of your progress.
+- Filter tasks based on their completion status (All, Active, Completed).
+- Clear completed tasks to maintain a clutter-free task list.
+- Responsive design, ensuring a great user experience on various devices.
+- Modern and dynamic user interface.
 
-### Run app
+## Installation
 
-yarn start
+Follow these steps to run the React To-Do List website locally:
 
-OR
+1. Clone this repository:
 
-npm start
+   ```bash
+   git clone https://github.com/your-username/react-todo-list.git
+   ```
 
-### YouTube Tutorial URL
+2. Navigate to the project directory:
 
-Title: React To Do List App (v2) | Refactored & Improved | Learn React JS | Do More with Less Code
+   ```bash
+   cd react-todo-list
+   ```
 
-https://youtu.be/E2CWxv5hOso
+3. Install dependencies:
 
-Old Code (https://github.com/webstylepress/to-do-list-app-react-wsp)
+   ```bash
+   npm install
+   ```
 
-Old Video (https://youtu.be/TmDNBEdHzVs)
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+5. Open your browser and visit `http://localhost:3000` to access the application.
+
+## Usage
+
+1. Add a task by typing its title and optional description in the input field at the top.
+2. Press Enter or click the "Add" button to add the task to your list.
+3. Click the checkbox next to a task to mark it as complete.
+4. Use the filter options at the top to view different sets of tasks (All, Active, Completed).
+5. To remove completed tasks, click the "Clear Completed" button.
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please discuss the changes you'd like to make via email devayan9689@gmail.com before submitting a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
